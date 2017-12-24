@@ -1,0 +1,4 @@
+www.google.com
+www.yahoo.com
+google.com
+yahoo.com

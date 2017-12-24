@@ -1,0 +1,12 @@
+detectportal.firefox.com 129.19.157.16 4 
+www.umich.edu 141.211.243.251 4 
+umich.edu 141.211.243.251 4 
+grad.berkeley.edu 104.196.198.245 4 
+fonts.googleapis.com 172.217.11.234 4 
+use.typekit.net 23.209.176.222 4 
+ajax.googleapis.com 172.217.12.10 4 
+fonts.gstatic.com 172.217.11.227 4 
+www.caida.org 192.172.226.123 4 
+morse.colorado.edu 128.138.184.74 4 
+www.google.com 173.194.203.99 4 
+google.com 172.217.1.78 4 
